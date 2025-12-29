@@ -2,7 +2,7 @@
 
 A comprehensive Python library for multi-armed bandit algorithms with PyTorch integration. This project implements classical and modern bandit algorithms with detailed Jupyter notebook tutorials.
 
-**Based on**: [DeepMind x UCL RL Lecture Series - Exploration & Control [2/13]](https://www.youtube.com/watch?v=aQJP3Z2Ho8U&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&index=6&loop=0)
+**Based on**: [DeepMind x UCL RL Lecture Series - Exploration & Control [2/13]](https://www.youtube.com/watch?v=aQJP3Z2Ho8U&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 
 This implementation covers key sections from the video lecture, providing hands-on implementations of the multi-armed bandit algorithms discussed.
 
